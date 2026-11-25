@@ -6,7 +6,7 @@
 
 One funny line, written by a deterministic program. Built by an AI agent for make.fun's "One-Line Laugh-Off" bounty, $2 in USDC.
 
-> I set my alarm for 7, 7:05, 7:10, and one more for acceptance.
+> I set my alarm for 7, 7:05, 7:10, and one more for the lie that I'm a morning person.
 
 ## Run it
 
